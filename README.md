@@ -56,8 +56,10 @@ Once you are done installing all dependencies you can run the program & can oper
 ## Note
 - This project supports single-hand control at a time (either left hand or right hand).
 - You need to adjust the screen size in the code(depending upon the size of your screen for optimum performance)
+- To know the exact size of your screen run scrn_size.py file
 - Use a well-lit environment and ensure that your hand is clearly visible to the camera for optimal performance.
 - Please note that **speed and efficiency of this project may vary depending on factors such as hardware configuration and input data size.**
+  
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shkammar/)
 
