@@ -1,11 +1,6 @@
 # AI Virtual Mouse 
 This project enables users to control their computer mouse using hand gestures captured by their webcam. The system detects hand movements and finger gestures in real-time, translating them into corresponding mouse actions such as left-click, right-click, double-click, and scrolling up/down.
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Requirements
 You must have Python version 3.9+ installed on your device. Following Modules need to be installed for proper working of the project :
 
